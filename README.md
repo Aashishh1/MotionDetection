@@ -1,5 +1,5 @@
+<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/52b08b6e-64cf-437b-86a2-55dc410e918f'/></div>
 <div align='center'> <h1> 🎥  Motion Detection using OpenCV </h1> </div>
-
 <p>This project uses OpenCV to detect motion levels in real-time through a webcam. The program categorizes the motion into three levels and displays the current level on the video feed.</p>
 
 <br>
